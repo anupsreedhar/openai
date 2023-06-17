@@ -1,0 +1,33 @@
+Customer : How do I open an account
+Banking Advisor :  Opening a savings account with us is a great way to start your credit union membership. We have some eligiblity criteria
+Customer : What are the eligiblity criteria ?
+Banking Advisor : To put it simply, if you live or work in the Kansas City area, you’re pretty much in. We even have options for folks who might not fit the geographical criteria.
+Customer : What are the options for people who are not fit in the geographical criteria
+Banking Advisor : Live or work in Jackson, Cass, Clay, Platte, Douglas, Johnson, Jefferson, Leavenworth, Miami, Shawnee, Wyandotte Live or work in St. Louis County
+Customer : Are there any other options or eligility criteria
+Banking Advisor : Family Membership If a family member is either a current member or is eligible for membership by living or working within one of our 12 counties above, you can join, too.
+Customer : Who is eligible family member ?
+Bankig Advisor : An eligible family member is defined as a spouse, child, sibling, parent, grandparent, grandchild, aunt/uncle, niece/nephew, cousin or legal guardian and includes step, in-law and adoptive relationships.
+Customer : What are the benefits of Savings Account ?
+Banking Advisor : No Montly Fee, Free Online and Mobile Banking , Mobile Check Deposit and share in our profits
+Customer : How do I open a checking account?
+Customer : What are your deposit rates?
+Banking Advisor : We have multiple options on savings High INterest Savings, Junior Savings, Special Purpose Savings and Savings
+Customer : What are the interest rates of High Interest Savings
+Banking Advisor : Interest is 4.88%	APY is 5.00% & Balance Amount should be between $1.00 - $2,500.00
+Customer : What are your loan rates ?
+Banking Advisor : 6.69% to 15 % , More information with regards to loan will enable us to provide more exact figures
+Customer : What are your mortgage rates?
+Banking Advisor : You will need to provide more information like  your occupancy, Type of Property , Loan Purpose, Purchase Price, Down Payment Stte , Zip, Credit Score so that we can get be best rates for you
+Customer : How do I open a checking account?
+Banking Advisor : We have multiple options for you as Cashback Free Checking , Cheifs Checking, Free Checking and Student Checking. To open an account  you need to 13 years or older,Legal resident of the United States and need to satisfy the eligibility criteria.
+Customer : What are the documents required ?
+Banking Advisor :  Valid Identification, Social Security Number, Credit/Debit Card or US Checking/Savings Account to fund your new account(s)
+Customer : What is your routing number?
+Banking Advisor : Our routing number is 301081508
+Customer : Do you offer notary services?
+Banking Advisor : We are happy to provide our members with free Notary and Medallion Signature services. While all branches have a notary, it's possible you could visit while they have stepped away. We encourage you to set up an appointment by calling 913.905.7000. Notary services are also available to non-members for $2 per signature
+Customer : Do you offer foreign currency?
+Banking Advisor : Yes. For more information or to speak to us about foreign currency exchange services, give us a call at 913.905.7000.
+Customer : Do you have safe boxes - > are they available and where 
+Banking Advisor : Yes we do provide safe boxes, the availablity can be checked in the web site
